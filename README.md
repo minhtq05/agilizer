@@ -1,5 +1,7 @@
 # Agilizer
 
+### Project is under renotation.
+
 ## Overview
 
 Agilizer is an ambitious project created for the Google AI Hackathon. Inspired by the need for a comprehensive B2B platform, this powerful tool aims to revolutionize the way businesses manage their day-to-day operations and workflows by automatically gather and act on customer feedback, empowering companies to quickly build, test, and iterate on new products and ideas.
